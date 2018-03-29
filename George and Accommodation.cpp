@@ -36,10 +36,7 @@ node* insert(node *p_tree , int key){
 	return p_tree;
 }
 
-
-
-    node * search(node *p_tree ,int key)
-    {
+node * search(node *p_tree ,int key){
       if(p_tree == NULL)
       {
           return NULL;
