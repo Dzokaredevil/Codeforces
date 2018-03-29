@@ -3,7 +3,8 @@
 
 using namespace std;
 
-long long n,a = 1, b, c, i;
+long long n, a = 1, b, c, i;
+
 main(){
 	cin >> n;
 	while(i < n-1){
