@@ -131,7 +131,6 @@ void solve(int a[100] ,int x,int n ,int t){
     }
     return;
 }
-
 int ma;
 
 int main()
