@@ -15,6 +15,7 @@ void load(string s , int *arr){
         (*(arr + s[i]))++;
 }
 
+
 inline int SUM(int n , int a[100100]){
     int sum = 0;
     for(int i = 0 ; i < n ; i++)
