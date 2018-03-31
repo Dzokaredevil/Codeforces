@@ -36,10 +36,7 @@ node* insert(node *p_tree , int key){
 	return p_tree;
 }
 
-
-
-    node * search(node *p_tree ,int key)
-    {
+node * search(node *p_tree ,int key){
       if(p_tree == NULL)
       {
           return NULL;
@@ -134,7 +131,6 @@ void solve(int a[100] ,int x,int n ,int t){
     }
     return;
 }
-
 int ma;
 
 int main()
