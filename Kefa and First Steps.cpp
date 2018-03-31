@@ -96,7 +96,6 @@ ListNode* deleteNode(int value, ListNode* head){
 
     ListNode* head1 = head;
     if(head->value == value){
-
         ListNode* temp = head->next;
         free(head);
         return temp;
