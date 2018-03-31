@@ -18,7 +18,7 @@ int main()
 		cin >> c[i];
 	sort(c, c + b);
 	for (int i = 0; i < b - a + 1; i++)
-		mini = min(mini, c[a - 1 + i] - c[i]);
+		mini = min(mini, c[a - 1 + i] - c[i]); 
 	cout << mini;
 	return 0;
 }
