@@ -95,7 +95,6 @@ int main()
     for(j = 1; j < i; j++){
         c[b[j]] = a[j];
     }
-
     for(i = 1 ; i <= n ; i++)
     cout << c[i] <<" ";
 	
