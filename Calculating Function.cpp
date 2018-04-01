@@ -74,5 +74,5 @@ int main()
         cout << -(n+1)/2;
     else
         cout << (n)/2;
-	
+
 }
