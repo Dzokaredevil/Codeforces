@@ -101,6 +101,7 @@ void removeWub(string s){
     cout << s;
 }
 
+
 int main()
 {
     int a,b,c;
