@@ -1,6 +1,7 @@
 #ifndef BZ
 #pragma GCC optimize "-O3"
 #endif
+
 #include <bits/stdc++.h>
 
 #define FASTIO
