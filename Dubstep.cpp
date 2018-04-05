@@ -11,7 +11,7 @@ using namespace std;
 long int arr[1000001];
 
 int main()
-{
+{ 
 	string word;
 	int a;
 	cin >> word;
