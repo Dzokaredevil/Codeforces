@@ -91,6 +91,7 @@ namespace Rextester{
             RealWork(); 
             Dispose();
         }
+	    
         [MethodImpl(MethodImplOptions.AggressiveInlining)]
         public static void RealWork()
         {
