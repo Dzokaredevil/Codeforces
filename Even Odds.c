@@ -93,7 +93,6 @@ namespace ConsoleApplication1
 
                 return gtLeft && gtRight;
             }
-
             private static bool IsMaxHeap1(int[] arr)
             {
                 for (int i = arr.Length - 1; i > 0; i--)
