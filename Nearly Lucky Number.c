@@ -87,7 +87,6 @@ namespace Olymp
                 Console.Write ("." + str [i]);
             }
 
-
         }
 
         static void Z50A ()
