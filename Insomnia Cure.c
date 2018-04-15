@@ -92,7 +92,6 @@ namespace Olymp
 
         static void Z50A ()
         {
-        
             string   [] strs = Console.ReadLine ().Split (' ');
             int N = Int32.Parse (strs [0]);
             int M = Int32.Parse (strs [1]);
