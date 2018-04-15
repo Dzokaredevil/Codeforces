@@ -69,7 +69,6 @@ namespace Olymp
                 } else {
                     Console.WriteLine (str);
                 }
-
             }
         }
 
