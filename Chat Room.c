@@ -102,7 +102,7 @@ namespace Olymp
             M /= 2;
             result += M * N;
             Console.WriteLine (result);
-        
+       
         }
 
         static void Z158B ()
