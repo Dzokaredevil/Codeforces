@@ -212,8 +212,7 @@ namespace Olymp
 
             }
             Console.WriteLine (str);
-        }
-
+        
         static void Z96A ()
         {
             string str = Console.ReadLine ();
