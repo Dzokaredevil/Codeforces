@@ -534,6 +534,7 @@ namespace Olymp
             }
             Console.WriteLine("NO");
         }
+		
         static void Z472A (){
             int n=Int32.Parse(Console.ReadLine());
             if (n%2==0) {
