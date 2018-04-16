@@ -286,7 +286,8 @@ namespace Olymp
             else
                 Console.WriteLine (0);
         }
-
+		
+		
         static void Z339A ()
         {
             int [] ch = new int[3];
