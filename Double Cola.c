@@ -129,7 +129,7 @@ namespace Olymp
             sum += com [1];
             com [0] -= com [1] * 2;
             if (com [0] > 0) {
-            
+          
                 sum += com [0] / 4;
                 com [0] %= 4;
                 if (com [0] > 0)
