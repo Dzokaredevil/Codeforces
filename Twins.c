@@ -171,7 +171,6 @@ namespace Olymp
             }
             Console.WriteLine (x);
         }
-
         static  void Z116A ()
         {
             
