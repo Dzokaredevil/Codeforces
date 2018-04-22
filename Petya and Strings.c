@@ -72,7 +72,6 @@ namespace Olymp
 
             }
         }
-
         static void Z118A ()
         {
             string str = Console.ReadLine ();
