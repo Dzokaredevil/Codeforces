@@ -29,5 +29,5 @@ int main()
 		cout << "NO";
 	else
 		cout << "YES";
-    return 0;
+    return 0; 
 }
