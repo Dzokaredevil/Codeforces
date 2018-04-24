@@ -1,1 +1,1 @@
-print(len(set(input()+', '))-4) 
+print(len(set(input()+', '))-4)
