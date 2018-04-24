@@ -15,7 +15,7 @@ int main()
     int y = a;
     while(y >= b){
         a = y/b;
-        y = y%b;
+        y = y%b; 
         sum = sum+a;
         y = y+a;
     }

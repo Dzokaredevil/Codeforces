@@ -68,7 +68,7 @@ int main()
     }
     else if (time2 > time1) {
         cout << "Danik";
-    }
+    } 
     else cout << "Friendship";
     return 0;
 }
