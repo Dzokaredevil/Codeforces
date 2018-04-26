@@ -12,7 +12,6 @@ typedef signed long long ll;
 #define ALL(a) (a.begin()),(a.end())
 #define ZERO(a) memset(a,0,sizeof(a))
 #define MINUS(a) memset(a,0xff,sizeof(a))
-//-------------------------------------------------------
 
 int K,N,S,P;
 
