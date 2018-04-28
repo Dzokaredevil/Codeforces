@@ -1,1 +1,1 @@
-s,i=sorted,input;print('YNEOS'[s(i()+i())!=s(i())::2])
+s,i=sorted,input;print('YNEOS'[s(i()+i())!=s(i())::2]) 
