@@ -28,7 +28,7 @@ void DFS1(int u, int fa){
 	for(int id = head[u]; ~id; id = e[id].nxt){
 		int v = e[id].v; if(v == fa) continue;
 		DFS1(v, u); Update(dp[u][0], dp[u][1], son[u], dp[v][0] + 1, v);
-	}
+	} 
 }
 
 void DFS2(int u,int fa){
