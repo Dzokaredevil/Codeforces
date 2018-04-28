@@ -24,6 +24,7 @@ void solve() {
 	cout<<(K+P-1)/P<<endl;
 }
 
+
 int main(int argc,char** argv){
 	string s;int i;
 	if(argc==1) ios::sync_with_stdio(false), cin.tie(0);
