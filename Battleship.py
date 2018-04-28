@@ -25,5 +25,5 @@ for i in range(n):
         if v[i][q] > m:
             mx = q
             my = i
-            m = v[i][q]
+            m = v[i][q] 
 print(my + 1, mx + 1)
