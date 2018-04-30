@@ -36,7 +36,7 @@ int main()
 		if (!vis[i]){
 			if (dfs(i, 0)) return 0 * puts("NO");
 		}
-	printf("YES\n");
+	printf("YES\n"); 
 	for (int i = 0; i < n; i++) printf("%d\n", a[i]);
 	return 0;
 }
