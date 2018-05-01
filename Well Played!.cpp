@@ -29,4 +29,4 @@ int main()
     }
     cout << r + x;
     return 0;
-}
+} 
