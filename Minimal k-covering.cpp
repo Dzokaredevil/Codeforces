@@ -70,7 +70,7 @@ void addEdge(int u, int v, ll c){
     edge[ne] = {v, u, 0};
     g[v].push_back(ne++);
 }
-
+ 
 int in[N];
 
 int main(){
