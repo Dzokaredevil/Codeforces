@@ -2,7 +2,7 @@
 #include <cstdio>
 
 struct A{
-	int l,r,i;
+	int l,r,i; 
 }a[300005];
 
 bool cmp(A x,A y){return x.l<y.l || (x.l==y.l&&x.r>y.r);}
