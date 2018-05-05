@@ -16,7 +16,7 @@ int main(){
 		if (a[i].r<=a[i-1].r){
 			printf("%d %d",a[i].i,a[i-1].i);
 			return 0;
-		}
+		} 
 	}
 	puts("-1 -1");
 }
