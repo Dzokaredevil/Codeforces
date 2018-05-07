@@ -4,7 +4,7 @@ using namespace std;
 
 typedef long long ll;
 
-int main()
+int main() 
 {
 	ll n, q;
 	cin >> n >> q;
