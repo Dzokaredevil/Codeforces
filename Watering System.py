@@ -1,5 +1,5 @@
 R = lambda: map(int, input().split())
-
+ 
 n, A, B = R()
 s = list(R())
 t = s[0]
