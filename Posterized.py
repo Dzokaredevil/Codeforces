@@ -2,7 +2,7 @@ n, k = [int(x) for x in input().split()]
 ps = [int(x) for x in input().split()]
 mapping = [-1 for _ in range(256)]
 
-res = []
+res = [] 
 for p in ps:
     if mapping[p] == -1:
         j = p - k + 1
