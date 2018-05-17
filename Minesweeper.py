@@ -17,7 +17,7 @@ for i in range(N):
 ok=1
 for i in range(N):
 	for j in range(M):
-		if B[i][j]!='*' and C[i][j]!=0:
+		if B[i][j]!='*' and C[i][j]!=0: 
 			ok=0
 			break
 if(ok==1):
