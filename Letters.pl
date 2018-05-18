@@ -5,7 +5,7 @@ $\ = $/;
 
 $h = 1;
 
-for( split ' ', <> ){
+for( split ' ', <> ){ 
 	
 	while( @_ and $_[ 0 ] + $c < $_ ){
 		$h ++;
