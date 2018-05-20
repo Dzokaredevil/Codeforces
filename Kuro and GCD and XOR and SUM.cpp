@@ -109,7 +109,7 @@ int solve()
         int t;scanf("%d", &t);
         if (t == 1){
             int x;scanf("%d", &x); add(x);
-        } else {
+        } else { 
             int x, k, s;
             scanf("%d%d%d", &x, &k, &s);
             printf("%d\n", query(x, k, s) ) ;
