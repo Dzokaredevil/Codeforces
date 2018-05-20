@@ -4,7 +4,7 @@ map {
 	( $u, $v ) = split ' ', <>;
 	$h{ $u }{ $v } ++;
 	$h{ $v }{ $u } ++;
-	} 2 .. $_;
+	} 2 .. $_; 
 
 exit if $_ % 2 and print -1;
 
