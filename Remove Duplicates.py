@@ -1,5 +1,5 @@
 n = int(input())
-r = []
+r = [] 
 for x in list(map(int, input().split()))[::-1]:
     if not x in r:
         r.append(x)
