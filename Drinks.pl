@@ -1,1 +1,1 @@
-$n=<>;$s+=$_ for split' ',<>;print$s/$n
+$n=<>;$s+=$_ for split' ',<>;print$s/$n 
