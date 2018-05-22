@@ -8,7 +8,7 @@ for i in range(n):
         b=(b*b)%q
         
     if((p*b)%q):
-        s+='Infinite\n'
+        s+='Infinite\n' 
     else:
         s+='Finite\n'
 print(s)
