@@ -4,4 +4,4 @@ t=0
 while t<=240-k:
     ans+=1
     t+=5*ans
-print(min(n,ans-1))
+print(min(n,ans-1)) 
