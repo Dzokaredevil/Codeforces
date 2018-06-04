@@ -30,7 +30,7 @@ public class Main {
             if (curChar >= numChars) {
                 curChar = 0;
                 try {
-                    numChars = stream.read(buf);
+                    numChars = stream.read(buf); 
                 } catch (IOException e) {
                     throw new InputMismatchException();
                 }
