@@ -73,7 +73,7 @@ public class Main {
             this.stream = stream;
         }
 
-        public int read() {
+        public int read() { 
             if (numChars == -1) {
                 throw new InputMismatchException();
             }
