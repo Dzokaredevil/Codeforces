@@ -36,7 +36,7 @@ public class Main {
 
     public void echo(String output) {
         try {
-            out.write(output);
+            out.write(output); 
         } catch (IOException e) {
             e.printStackTrace();
         }
