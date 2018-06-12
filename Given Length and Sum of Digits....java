@@ -49,7 +49,7 @@ public class C489 {
 		int start = 0;
 		if(len==0)
 			start++;
-		StringBuilder max = new StringBuilder(
+		StringBuilder max = new StringBuilder( 
 				"9999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999");
 		String s = seq.toString();
 		for (int i = start; i <=9; i++) {
