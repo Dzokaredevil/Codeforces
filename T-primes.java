@@ -64,7 +64,7 @@ public class Main {
 		public void printLine(Object... objects) {
 			print(objects);
 			writer.println();
-		}
+		} 
 
 		public void close() {
 			writer.close();
