@@ -31,7 +31,7 @@ public final class Third
 	
 	public static void getAttributes()
 	{
-		n = reader.nextInt();
+		n = reader.nextInt(); 
 		a = reader.next();
 		b = reader.next();
 		
