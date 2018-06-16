@@ -41,7 +41,7 @@ public class NewClass {
             if (a[i]==1) {
                 for (int k = 2; i*k <=n; k++) {
                     a[i*k]=0;
-                }
+                } 
             }
         }
         return a[n]==1;
