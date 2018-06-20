@@ -1,1 +1,1 @@
-print(bin(int(input())).count('1')) 
+print(bin(int(input())).count('1'))
