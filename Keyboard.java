@@ -34,7 +34,7 @@ public class CF10 {
                 case 'o' :
                     System.out.print("i");
                     break ;
-                case 'p' :
+                case 'p' : 
                     System.out.print("o");
                     break ;
                 case 's' :
