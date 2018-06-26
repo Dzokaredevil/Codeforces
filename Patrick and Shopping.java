@@ -40,7 +40,7 @@ public class A {
             return ret;
         }
 
-
+ 
         private int[][] nextIntTable(int n, int m) {
             int[][] ret = new int[n][m];
             for (int i = 0; i < n; i++) {
