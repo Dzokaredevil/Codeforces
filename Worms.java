@@ -50,7 +50,7 @@ public class Luck{
     	}
     	else{
     		g=gcd(a,b);
-    	}
+    	} 
     	return (a*b)/g;
     }
     static long bigmod ( long a, long p, long m ) {
