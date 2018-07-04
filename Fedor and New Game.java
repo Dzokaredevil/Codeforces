@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 import java.math.*;
 import java.lang.*;
-
+ 
 import static java.lang.Math.*;
 
 public class Main implements Runnable {
