@@ -61,7 +61,7 @@ public class abChess {
 
         public InputReader(InputStream stream) {
             this.stream = stream;
-        }
+        } 
 
         public int read() {
             if (numChars == -1)
