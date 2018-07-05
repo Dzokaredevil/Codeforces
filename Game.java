@@ -7,7 +7,7 @@ public class A {
 
 	public void run() {	
 		int n1 = in.nextInt(), n2 = in.nextInt();
-		int k1 = in.nextInt(), k2 = in.nextInt();
+		int k1 = in.nextInt(), k2 = in.nextInt(); 
 		if (n1 <= n2) System.out.println("Second");
 		else System.out.println("First");
 		out.close();
