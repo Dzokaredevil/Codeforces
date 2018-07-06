@@ -7,7 +7,7 @@ using namespace std;
 
 int n,m,visited[30000],BFS(int);
 
-int main()
+int main() 
 {
     cin>>n>>m;
     cout<<BFS(n);
