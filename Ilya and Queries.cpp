@@ -4,7 +4,7 @@ using namespace std;
 
 const int maxn = 1000100;
 
-long long ps[maxn];
+long long ps[maxn]; 
 
 long long max(long long x, long long y){return (x > y ? x : y);}
 long long min(long long x, long long y){return (x < y ? x : y);}
