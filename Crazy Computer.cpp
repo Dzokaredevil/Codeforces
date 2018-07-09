@@ -34,7 +34,7 @@
 #define sq(x) ((x)*(x))
 #define Sqrt(n) (long long)round(sqrt((double)n))
 
-
+ 
 using namespace std;
 typedef long long ll;
 
