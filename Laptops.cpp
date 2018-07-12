@@ -27,7 +27,7 @@
 using namespace std;
  
 #ifndef ONLINE_JUDGE
-	bool debug = false;
+	bool debug = false; 
 #else
 	bool debug = true;
 #endif
