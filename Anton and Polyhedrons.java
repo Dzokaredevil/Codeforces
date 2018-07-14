@@ -2,7 +2,7 @@ import java.util.*;
 import java.io.*;
 
 public   class TestClass{
-    static ArrayList<Integer>[] al;
+    static ArrayList<Integer>[] al; 
          static class Pair implements Comparator<Pair>{
   int a;
   int b;
