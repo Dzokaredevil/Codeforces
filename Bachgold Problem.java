@@ -5,7 +5,7 @@ import java.io.*;
 	import java.util.*;
 	
 public class some {
-		
+		 
 	
 		static double eps=(double)1e-6;
 		static long mod=(int)1e9+6;
