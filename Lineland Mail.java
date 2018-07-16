@@ -3,7 +3,7 @@ import java.io.FileInputStream;
 import java.io.IOException;
 
 
-public class main{
+public class main{ 
     
     public static void main(String args[])throws IOException{
       Reader in=new Reader();
