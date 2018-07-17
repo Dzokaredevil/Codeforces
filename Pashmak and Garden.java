@@ -5,7 +5,7 @@ import java.util.*;
 
 public class Main {
     public static int ONLINE_MODE = 1;
-    public static int OFFLINE_MODE = 2;
+    public static int OFFLINE_MODE = 2; 
 
     public int mode = 0;
 
