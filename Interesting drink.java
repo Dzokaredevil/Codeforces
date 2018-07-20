@@ -4,7 +4,7 @@ import java.util.*;
 public class Astone {
 	//static int flag=1
 	static int count=0;
-	private static InputStream stream;
+	private static InputStream stream; 
 	private static byte[] buf=new byte[1024];
 	private static int curChar;
 	private static int numChars;
