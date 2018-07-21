@@ -25,7 +25,7 @@ public class SarthakCode
 	    int da = a % 10;
 	 
 	    if(da==0)return 0;
-	    if(da==5)return 5;
+	    if(da==5)return 5; 
 	    switch(b%4){
 	    case 0:
 	      return da%2!=0?1:6;
