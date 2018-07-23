@@ -7,7 +7,7 @@ import java.util.InputMismatchException;
 
 
 public class main {
-    InputStream is;
+    InputStream is; 
     PrintWriter out;
     String INPUT;
 
