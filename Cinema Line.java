@@ -42,7 +42,7 @@ public class TriangleEasy {
                     }else{
                         isAnswer=false;
                     }
-                }else{
+                }else{ 
                     if(count50>=1 && count25>=1){
                         count50--;
                         count25--;
