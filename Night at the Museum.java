@@ -3,7 +3,7 @@ import java.util.*;
 
 // this is not good for reading double values.
 
-public class Round731A {
+public class Round731A { 
 	static long m = 100000007;
 	static Reader r;
 	static PrintWriter o;
