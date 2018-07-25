@@ -6,8 +6,6 @@ public class temppp {
 
 	public static void main(String[] args) {
 
-		// TODO Auto-generated method stub
-
 		FastInputReader s = new FastInputReader();
 		
 		 int n = s.nextInt();
