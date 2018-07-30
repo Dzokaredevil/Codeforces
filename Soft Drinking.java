@@ -5,7 +5,7 @@ import java.math.*;
 import java.util.regex.*;
 import java.lang.*;
 
-public class P151A {
+public class P151A { 
     static BigInteger ways(int N,  int K) {
         BigInteger ret = BigInteger.ONE;
         for(int i=N;i>=N-K+1;i--)
