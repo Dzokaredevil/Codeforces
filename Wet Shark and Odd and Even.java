@@ -3,9 +3,6 @@ import java.math.BigInteger;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-/**
- * Created by brechka on 2/24/2016.
- */
 public class CF {
     public static void main(String[] args) throws IOException {
         InputReader inputReader = new InputReader(System.in);
@@ -42,7 +39,7 @@ public class CF {
             for (int i = 0; i < size; ++i) {
                 array[i] = nextInt();
             }
-            return array;
+            return array; 
         }
 
         public long[] nextLongArray(int size) {
