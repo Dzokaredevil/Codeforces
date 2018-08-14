@@ -26,7 +26,7 @@ public class R479A {
         private InputStream stream;
         private byte[] buf = new byte[1024];
         private int curChar;
-        private int numChars;
+        private int numChars; 
 
         public InputReader(InputStream stream) {
             this.stream = stream;
