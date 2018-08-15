@@ -43,7 +43,7 @@ public final class ProblemA
         
         public InputReader(InputStream stream)
         {
-            this.stream = stream;
+            this.stream = stream; 
         }
 
         public int read()
