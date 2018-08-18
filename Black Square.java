@@ -120,7 +120,7 @@ public class Main {
             }
             StringBuilder res = new StringBuilder();
             do {
-                if (Character.isValidCodePoint(c)) {
+                if (Character.isValidCodePoint(c)) { 
                     res.appendCodePoint(c);
                 }
                 c = read();
