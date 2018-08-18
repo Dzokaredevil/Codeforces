@@ -5,7 +5,7 @@ import java.math.*;
 public class A {
     public static void main(String args[]) {
         try {
-            InputReader in = new InputReader(System.in);
+            InputReader in = new InputReader(System.in); 
             int a1 = in.readInt();
             int a2 = in.readInt();
             int min = Math.min(a1, a2);
