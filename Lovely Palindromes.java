@@ -6,7 +6,7 @@ public class CF {
     public static void main(String[] args) throws IOException {
         FastScanner in = new FastScanner(System.in);
         PrintWriter out = new PrintWriter(System.out);
-        String ch = in.next();
+        String ch = in.next(); 
         out.print(ch);
         for (int i = ch.length()-1; i > -1; i--) {
             out.print(ch.charAt(i));
