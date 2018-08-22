@@ -71,7 +71,7 @@ public class TriangleEasy {
         public String nextLine(){
             try {
                 st1 = new String(br.readLine());
-            } catch (IOException e) {
+            } catch (IOException e) { 
                 throw new RuntimeException(e);
             }
             return st1;
