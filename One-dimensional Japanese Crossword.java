@@ -4,7 +4,7 @@ import java.io.*;
 import java.math.BigDecimal;
 import java.math.BigInteger;
 
-import static java.lang.Math.*; 
+import static java.lang.Math.*;
 import static java.util.Arrays.*;
 import static java.util.Collections.*;
 
