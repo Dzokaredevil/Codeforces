@@ -1,4 +1,4 @@
-n,x=map(int,input().split())
+n,x=map(int,input().split()) 
 s=0
 for _ in range(n):
     z,d=input().split();d=int(d)
