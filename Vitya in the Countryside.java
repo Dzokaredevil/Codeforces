@@ -7,7 +7,7 @@ import java.util.Scanner;
 import java.util.Set;
 
 public class WetShark
-{
+{ 
     static class Reader
     {
         final private int BUFFER_SIZE = 1 << 16;
