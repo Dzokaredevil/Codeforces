@@ -6,7 +6,7 @@ public class PresentFromLena {
         Scanner scan=new Scanner (System.in);
         int num=scan.nextInt();
         switch (num) {
-            case 2:
+            case 2: 
                 System.out.println("    0");
                 System.out.println("  0 1 0");
                 System.out.println("0 1 2 1 0");
